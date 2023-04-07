@@ -2,7 +2,7 @@
 using namespace std;
 
 //#define SQUARE
-//#define TRIANGEL_1
+#define TRIANGEL_1
 //#define TRIANGEL_2
 //#define TRIANGEL_3
 //#define TRIANGEL_4
